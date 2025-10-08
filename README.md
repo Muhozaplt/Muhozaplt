@@ -1,7 +1,7 @@
 # Hi there, I'm Pilote Muhoza 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pilote-muhoza-93536b237/)
-[![Email](https://img.shields.io/badge/Email-pilotemuhoza%40outlook.com-red?style=flat&logo=gmail)](mailto:pilotemuhoza@outlook.com)
+[![Outlook](https://img.shields.io/badge/Email-pilotemuhoza%40outlook.com-red?style=flat&logo=gmail)](mailto:pilotemuhoza@outlook.com)
 [![QUT Email](https://img.shields.io/badge/QUT-n11285834%40qut.edu.au-navy?style=flat)](mailto:n11285834@qut.edu.au)
 
 ## 🎓 About Me

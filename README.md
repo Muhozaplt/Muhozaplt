@@ -42,6 +42,7 @@ Read more [here](https://github.com/Muhozaplt/2024-Summer-Research)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
 ### Scientific Computing
 - **Data Analysis:** NumPy, Pandas, SciPy, Matplotlib, Matlab
 - **Numerical Modeling:** Computational Physics, Simulation Techniques

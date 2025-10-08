@@ -10,7 +10,7 @@ I'm a fourth-year student at **Queensland University of Technology (QUT)** pursu
 - **Bachelor of Engineering (Honours)** - Electrical & Aerospace Engineering
 - **Bachelor of Science** - Physics
 
-I'm passionate about the intersection of physics, engineering, and computational science, with research experience in astrophysics, quantum nanotechnology, and data-driven analysis.
+I'm passionate about the intersection of physics, engineering, and computational science, with research experience in astrophysics, quantum nanotechnology.
 
 ## 🔬 Research Experience
 

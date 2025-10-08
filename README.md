@@ -22,6 +22,8 @@ I'm passionate about the intersection of physics, engineering, and computational
 - Developed astrophysical models to understand galaxy evolution and AGN contributions
 - **Skills:** Python, Astronomical Data Analysis, Statistical Modeling, Big Data Processing
 
+Read more [here](https://github.com/Muhozaplt/2024-Summer-Research)
+
 ### ⚛️ **Quantum Nanotechnology Research** | Summer 2024-2025
 *Scanning Tunneling Microscopy Lab, QUT*
 
@@ -29,7 +31,7 @@ I'm passionate about the intersection of physics, engineering, and computational
 - Used **Scanning Tunneling Microscopy (STM)** and **Spectroscopy (STS)** for nanoscale characterization
 - Identified distinct quantum states at nanoline ends and determined optimal fabrication conditions
 - Contributed to foundational research for quantum-confined systems with applications in nanoelectronics and quantum computing
-- **Skills:** Experimental Physics, STM/STS, Quantum Mechanics, Material Science, Data Visualization
+- **Skills:** Experimental Physics, STM/STS, Quantum Mechanics, Material Science, Data Visualisation
 
 ## 💻 Technical Skills
 
@@ -39,9 +41,9 @@ I'm passionate about the intersection of physics, engineering, and computational
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ### Scientific Computing
-- **Data Analysis:** NumPy, Pandas, SciPy, Matplotlib
+- **Data Analysis:** NumPy, Pandas, SciPy, Matplotlib, Matlab
 - **Numerical Modeling:** Computational Physics, Simulation Techniques
 - **Astronomical Tools:** Astropy, FITS data processing
 - **Engineering Software:** CAD, Circuit Design, Signal Processing
@@ -75,10 +77,6 @@ I'm passionate about the intersection of physics, engineering, and computational
 
 ## 📫 Let's Connect!
 
-I'm always interested in discussing research opportunities, collaborative projects, or interesting problems in physics and engineering. Feel free to reach out!
-
-- **Email:** [pilotemuhoza@outlook.com](mailto:pilotemuhoza@outlook.com)
-- **University:** [n11285834@qut.edu.au](mailto:n11285834@qut.edu.au)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
 - **Location:** Brisbane, Queensland, Australia
 

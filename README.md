@@ -1,6 +1,6 @@
 # Hi there, I'm Pilote Muhoza 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pilote-muhoza-93536b237/)
 [![Email](https://img.shields.io/badge/Email-pilotemuhoza%40outlook.com-red?style=flat&logo=gmail)](mailto:pilotemuhoza@outlook.com)
 [![QUT Email](https://img.shields.io/badge/QUT-n11285834%40qut.edu.au-navy?style=flat)](mailto:n11285834@qut.edu.au)
 
@@ -63,38 +63,32 @@ I'm passionate about the intersection of physics, engineering, and computational
 - Quantum Mechanics & Statistical Mechanics
 - Computational Astrophysics & Cosmology
 - Experimental Design & Data Collection
-- Big Data Processing & Visualization
+- Big Data Processing & Visualisation
 
 ## 🎯 Current Interests
 
 - **Nuclear & Particle Astrophysics:** Nucleosynthesis, stellar evolution, neutrino physics
 - **Quantum Computing:** Quantum-confined systems, topological materials
-- **Computational Physics:** Numerical methods, simulation, data-driven modeling
+- **Computational Physics:** Numerical methods, simulation, data-driven modelling
 - **Space Systems Engineering:** Satellite design, orbital mechanics, aerospace applications
 
 ## 📚 Community Involvement
 
-- **Peer Tutor** - Supporting students in engineering and science subjects at QUT
+- **Peer STIMulate** - Supporting students in engineering and science subjects at QUT
 - **Active in University Clubs** - Engaging with the physics and engineering community
 - Passionate about science communication and making complex concepts accessible
 
 ## 🌟 What I'm Working On
 
-- ⚡ **Current Research:** Developing and optimizing thermoelectric devices with improved step-up boost converter designs for enhanced energy harvesting efficiency
-- 🔭 Exploring computational methods in nuclear astrophysics
-- 📊 Developing data analysis pipelines for large-scale scientific datasets
-- 🧪 Continuing research in quantum nanotechnology and material science
-- 📝 Contributing to open-source scientific computing projects
+- ⚡ **Current Research:** Developing and optimising thermoelectric devices with improved step-up boost converter designs for enhanced energy harvesting efficiency
 
 ## 📫 Let's Connect!
 
 I'm always interested in discussing research opportunities, collaborative projects, or interesting problems in physics and engineering. Feel free to reach out!
 
-- **Email:** [pilotemuhoza@outlook.com](mailto:pilotemuhoza@outlook.com)
-- **University:** [n11285834@qut.edu.au](mailto:n11285834@qut.edu.au)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pilote-muhoza-93536b237/)
 - **Location:** Brisbane, Queensland, Australia
 
 ---
 
-*"The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein*
+*"For us there is no ignorabimus. In my opinion, there is none whatever in natural science. In place of the foolish ignorabimus, let our slogan be: **We must know — we will know!**" - David Hilbert*

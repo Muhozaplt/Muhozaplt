@@ -23,15 +23,15 @@ I'm passionate about the intersection of physics, engineering, and computational
 - Investigating circuit topologies and control strategies to enable self-powered wearable devices
 - Integrating electrical engineering principles with material science for practical energy solutions
 - **Skills:** Circuit Design, Power Electronics, Energy Conversion, PCB Design, Embedded Systems, Low-Power Design
-
+For more information, see repo [here](https://github.com/Muhozaplt/Thermoelectric-devices-research)
 ### 🌌 **Astrophysics Research** | VRES 2023-2024
 *Vacation Research Experience Scheme, QUT*
 
 - Investigated Active Galactic Nuclei (AGN) contamination on the U–V–J colour-colour diagram using ZFOURGE survey data
 - Analyzed datasets from **10,000+ galaxies** using Python for big data processing and statistical analysis
 - Developed astrophysical models to understand galaxy evolution and AGN contributions
-- **Skills:** Python, Astronomical Data Analysis, Statistical Modeling, Big Data Processing
-
+- **Skills:** Python, Astronomical Data Analysis, Statistical Modelling, Big Data Processing
+For more information, see repo [here](https://github.com/Muhozaplt/2024-Summer-Research)
 ### ⚛️ **Quantum Nanotechnology Research** | Summer 2024-2025
 *Scanning Tunneling Microscopy Lab, QUT*
 

@@ -14,7 +14,19 @@ I'm passionate about the intersection of physics, engineering, and computational
 
 ## 🔬 Research Experience
 
-### ⚡ **Thermoelectric Energy Harvesting** | Current
+### 💻 **LA9310 Programmable Baseband Processor** | VRES Current Project
+*VRES: Vacation Research Experience Scheme, QUT*
+
+The LA9310 is an NXP programmable baseband processor PCIe card used for:
+
+- 5G infrastructure and small cell base stations
+- Software-Defined Radio (SDR) applications
+- Network listening/cell sniffing
+- RF signal processing with VSPA (Vector Signal Processing Accelerator)
+
+I am investigating the Processing performance of LA9310 and  types of communications, RADAR, or other applications that could be implemented on this hardware to lower cost
+
+### ⚡ **Thermoelectric Energy Harvesting** | 2025
 *Power Electronics & Energy Conversion Research, QUT*
 
 - Developing thermoelectric devices for powering wearable electronics including smartwatches and medical sensors

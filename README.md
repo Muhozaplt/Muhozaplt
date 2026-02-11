@@ -15,7 +15,7 @@ I'm passionate about the intersection of physics, engineering, and computational
 ## 🔬 Research Experience
 
 ### 💻 **LA9310 Programmable Baseband Processor** | VRES Current Project
-*VRES: Vacation Research Experience Scheme, QUT*
+*VRES: QUT Vacation Research Experience Scheme, at Whipbird Signals Pty Ltd*
 
 The LA9310 is an NXP programmable baseband processor PCIe card used for:
 

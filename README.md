@@ -14,6 +14,8 @@ I'm passionate about the intersection of physics, engineering, and computational
 
 ## 🔬 Research Experience
 
+### 
+
 ### 💻 **LA9310 Programmable Baseband Processor** | VRES Current Project
 *VRES: QUT Vacation Research Experience Scheme, at **Whipbird Signals Pty Ltd** *
 
@@ -24,8 +26,10 @@ The LA9310 is an NXP programmable baseband processor PCIe card used for:
 - Network listening/cell sniffing
 - RF signal processing with VSPA (Vector Signal Processing Accelerator)
 
-I am investigating the Processing performance of LA9310 and  types of communications, RADAR, or other applications that could be implemented on this hardware to lower cost
+I am investigating the Processing performance of LA9310 and  types of communications, RADAR, or other applications that could be implemented on this hardware to lower cost.
 
+The abstract and poster of this reserach can be found here: https://qut.pressbooks.pub/foe-vres-2025/chapter/muhoza/
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/posts/pilote-muhoza-93536b237_im-excited-to-share-that-over-the-summer-activity-7438181703183065089-qo9p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADr2yXkBxDk1JwWrNpfEapSJyqPZt9psHhg) 
 ### ⚡ **Thermoelectric Energy Harvesting** | 2025
 *Power Electronics & Energy Conversion Research, QUT*
 

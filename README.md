@@ -15,7 +15,7 @@ I'm passionate about the intersection of physics, engineering, and computational
 ## 🔬 Research Experience
 
 ### 💻 **LA9310 Programmable Baseband Processor** | Current Project - Honours Thesis
-at **Whipbird Signals Pty Ltd**
+at **Whipbird Signals Pty Ltd** - 2026
 
 I am currenly working on the same LA9310 chip on [RFNM platform](https://rfnm.com/) as my honours Project
 
